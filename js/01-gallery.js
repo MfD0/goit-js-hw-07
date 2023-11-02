@@ -37,3 +37,6 @@ const galleryContainer = document.querySelector('.gallery');
 galleryContainer.innerHTML = galleryMarkup;
 
 galleryContainer.addEventListener('click', openModal);
+
+
+console.log(galleryItems);
